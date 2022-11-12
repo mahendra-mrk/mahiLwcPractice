@@ -1,0 +1,12 @@
+div{
+    color: red;
+}
+#username{
+    font-size: 30px;
+    color: green; 
+}
+.para{
+    font-size: 30px;
+    color:blueviolet; 
+    border: 8px solid goldenrod;
+}
